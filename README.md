@@ -35,20 +35,4 @@ Ontvang meldingen voor:
 
 ## Installatie
 
-Volg deze stappen om het project op je lokale machine te installeren en te starten.
-
-### Benodigdheden
-
-- **Node.js**: Zorg ervoor dat Node.js is geïnstalleerd.
-- **React Native CLI**: Installeer de React Native CLI door `npm install -g react-native-cli` uit te voeren.
-
-### Stappen
-
-1. **Clone de repository**:
-   ```sh
-   git clone https://github.com/jouw-gebruikersnaam/elektronisch-fietsslot.git
-   cd elektronisch-fietsslot
-
-
-Licentie
-Dit project is gelicentieerd onder de MIT-licentie. Zie het LICENSE bestand voor meer informatie.
+Ga naar de apstoren en downlaod de nodige app deze app werkt enkel bij android. 
