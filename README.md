@@ -35,4 +35,4 @@ Ontvang meldingen voor:
 
 ## Installatie
 
-Ga naar de apstoren en downlaod de nodige app deze app werkt enkel bij android. 
+Ga naar de appstoren en downlaod de nodige app deze app werkt enkel bij android. 
